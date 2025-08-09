@@ -1,0 +1,19 @@
+{
+  "openrouter": [],
+  "gemini": [
+    "yiyi"
+  ],
+  "gemini_flash": [
+    "yiyi"
+  ],
+  "currentIndex": {
+    "openrouter": 0,
+    "gemini": 0,
+    "gemini_flash": 0
+  },
+  "lastRotation": {
+    "openrouter": 1754741742257,
+    "gemini": 1754741742258,
+    "gemini_flash": 1754741742258
+  }
+}
